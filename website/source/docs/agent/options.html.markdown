@@ -254,6 +254,18 @@ will exit with an error at startup.
    - If none of these exist and discovery is being run from a GCE instance, the
      instance's configured service account will be used.
 
+* <a name="_retry_join_sl_username"></a><a href="#_retry_join_sl_username">`-retry-join-sl-username`
+   </a> - ...
+
+* <a name="_retry_join_sl_apikey"></a><a href="#_retry_join_sl_apikey">`-retry-join-sl-apikey`
+  </a> - ...
+
+* <a name="_retry_join_sl_datacenter"></a><a href="#_retry_join_sl_datacenter">`-retry-join-sl-datacenter`
+   </a> - ...
+
+* <a name="_retry_join_sl_tag_value"></a><a href="#_retry_join_sl_tag_value">`-retry-join-sl-tag-value`
+   </a> - ...
+
 * <a name="_retry_interval"></a><a href="#_retry_interval">`-retry-interval`</a> - Time
   to wait between join attempts. Defaults to 30s.
 
